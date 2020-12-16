@@ -1,0 +1,70 @@
+.header {
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    /* Dont hide nav bar when scrolling */
+    position: sticky;
+    top: 0;
+    /* Giver higher priority to nav bar than any other component */
+    z-index: 100;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header_option {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px;
+}
+
+.header_optionLineOne {
+    font-size: 10px;
+}
+
+.header_optionLineTwo {
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.header_link {
+    color: white;
+    text-decoration: none;
+}
+
+.header_Logo {
+    width: 100px;
+    margin: 0 20px;
+    margin-top: 18px;
+    /* keep ratio of logo the same despite screen size */
+    object-fit: contain;
+}
+
+.header_optionBasket {
+    display: flex;
+    align-items: center;
+}
+
+.header_basketCount {
+    margin: 0 10px;
+}
+
+.header_search {
+    display: flex;
+    flex: 1;
+}
+
+.header_searchInput {
+    height: 12px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+
+.header_searchIcon {
+    padding: 5px;
+    height: 22px !important;
+    background-color: #cd9042;
+}
