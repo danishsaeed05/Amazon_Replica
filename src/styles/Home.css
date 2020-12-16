@@ -6,4 +6,13 @@
 .home_image {
     width: 100%;
     mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    /* Put anything in front and make the image go in the background */
+    z-index: -1;
+    margin-bottom: -150px;
+}
+
+.home_row {
+    display: flex;
+    z-index: 1;
+    margin: 0 5px;
 }
