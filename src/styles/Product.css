@@ -1,0 +1,7 @@
+.product_rating {
+    display: flex;
+}
+
+.product_starRating {
+    color: #ffa700;
+}
