@@ -8,6 +8,12 @@
 - React JS
 - Express JS
 - Stripe
+- moment
+- react currency fomatter
+- material UI/Icons
+- axios
+- cors
+- dotenv
 - firebase (firestore & cloud functions)
 
 ## Instructions:
