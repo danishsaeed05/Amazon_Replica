@@ -1,4 +1,7 @@
-# Amazon 
+# Amazon Replica
+
+##### Official website link hosted in Netlify.
+- https://amazon-replica.netlify.app
 
 ## This project is based on amazon's wesbite. 
 ### The following tools are used in this project:
@@ -25,10 +28,6 @@
 - select ***build*** as public directory
 - Type ***y*** to use index.html as root url
 - But its better to run it locally first through ***npm start***
-
-
-##### Official website link hosted in Netlify.
-- https://amazon-replica.netlify.app
 
 #### Use testing account or simply click create account through login page, except create create account button
 - Email: rock@gmail.com
