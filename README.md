@@ -28,5 +28,10 @@
 
 
 ##### Official website link hosted in Netlify.
+- https://amazon-replica.netlify.app
 
-Please Note that making payment would NOT work since I have NOT hosted the API due to billing fees that firebase charges.
+#### Use testing account or simply click create account through login page, except create create account button
+- Email: test@test.com
+- Password: test123
+
+Please Note that making payment would NOT work since I have NOT hosted the API due to billing fees that firebase charges. But feel free to host the functions API locally and it the payment will go through in real time to your stripe account. 
