@@ -19,6 +19,11 @@ function reducer(state, action) {
                 ...state,
                 basket: [...state.basket, action.item]
             }
+        case 'EMPTY_CART':
+            return {
+                ...state,
+                basket: []
+            }
         case 'REMOVE_FROM_CART':
             let newCart = [...state.basket];
             const index = state.basket.findIndex((cartItem) => cartItem.id === action.id)
