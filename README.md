@@ -3,8 +3,6 @@
 ##### Official website link hosted in Netlify.
 - https://amazon-replica.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fa19f330-b17b-4799-a38f-ae7e6def3da8/deploy-status)](https://app.netlify.com/sites/amazon-replica/deploys)
-
 ## This project is based on amazon's wesbite. 
 ### The following tools are used in this project:
 - React JS
