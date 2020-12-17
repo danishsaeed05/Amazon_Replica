@@ -10,8 +10,7 @@
 - Stripe
 - firebase (firestore & cloud functions)
 
-# Project still in progress
-
+## Instructions:
 #### To run the application: 
 ##### Launch Server API:
 - Navigate to ***functions*** folder first
@@ -29,6 +28,7 @@
 - Type ***y*** to use index.html as root url
 - But its better to run it locally first through ***npm start***
 
+## Testing Account
 #### Use testing account or simply click create account through login page, except create create account button
 - Email: rock@gmail.com
 - Password: rock123
